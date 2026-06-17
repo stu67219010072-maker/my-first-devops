@@ -1,1 +1,8 @@
-
+team:
+name: IT-Partner
+level: 1
+members:
+- role: Developer
+name: wiritphon phiboon
+- role: Operations
+name: Jesada Chaiya
